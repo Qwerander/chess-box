@@ -2,6 +2,7 @@
   "name": "chessbox-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://qwerander.github.io/chess-box",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@types/node": "^17.0.45",
@@ -17,7 +18,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
