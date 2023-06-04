@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chess-box/static/css/main.a1f8f039.css",
+    "main.js": "/chess-box/static/js/main.fa7a26a1.js",
+    "static/media/logo.svg": "/chess-box/static/media/logo.e71512f6682707cd10e1bd88a89da5ad.svg",
+    "static/media/people.svg": "/chess-box/static/media/people.e1def066967daed831d8fe6af1ad4073.svg",
+    "static/media/stars.svg": "/chess-box/static/media/stars.8ca7f3779691dd4ecc3b.svg",
+    "static/media/price.svg": "/chess-box/static/media/price.7dcbfc97217c82e1cb60b6583f56b1b5.svg",
+    "index.html": "/chess-box/index.html",
+    "main.a1f8f039.css.map": "/chess-box/static/css/main.a1f8f039.css.map",
+    "main.fa7a26a1.js.map": "/chess-box/static/js/main.fa7a26a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f8f039.css",
+    "static/js/main.fa7a26a1.js"
+  ]
+}
