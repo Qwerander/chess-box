@@ -1,7 +1,7 @@
 .card {
     display: grid;
     grid-template-columns: 42% 2fr 22%;
-    gap: 40px;
+    gap: 30px;
 
     padding: 68px 25px;
 }
