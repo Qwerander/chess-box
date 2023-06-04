@@ -7,10 +7,10 @@ http://qwerander.github.io/chess-box
 ## Get acquainted with the code
 
 Clone the repository using the command 
-git clone https://github.com/Qwerander/chess-box.git
+### `git clone https://github.com/Qwerander/chess-box.git`
 
 Install dependencies using the command 
-npm i
+### `npm i`
 
 ## Available Scripts
 
