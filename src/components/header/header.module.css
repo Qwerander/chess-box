@@ -1,0 +1,22 @@
+.header {
+    padding: 12px 0;
+    border-bottom: 1px solid #DADADA;
+}
+
+.headerBlock {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.btn {
+    padding: 0;
+    border: none;
+    background: none;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    color: #09090C;
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.timeBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    border: 2px solid hsl(0, 0%, 85%);
+    border-radius: 16px;
+    width: 75px;
+    height: 75px;
+}
+
+.value {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #0B090C;
+}
+
+.type {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #6C6A6C;
+}

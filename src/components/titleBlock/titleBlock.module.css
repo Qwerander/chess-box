@@ -1,0 +1,16 @@
+.titleBlock {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    margin: 0;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.title span {
+    color: #B3B3B3;
+}

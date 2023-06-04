@@ -1,0 +1,108 @@
+.card {
+    display: grid;
+    grid-template-columns: 42% 2fr 22%;
+    gap: 40px;
+
+    padding: 68px 25px;
+}
+
+.left,
+.right,
+.center {
+    display: flex;
+    flex-direction: column;
+}
+
+.left {
+    gap: 18px;
+}
+
+.right {
+    gap: 16px;
+    justify-content: space-between;
+}
+
+.center {
+    gap: 32px;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 140%;
+    color: #0B090C;
+}
+
+.startTime {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #0B090C;
+    opacity: 0.6;
+}
+
+.descr {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #3A3A40;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    padding: 4px 16px;
+    gap: 8px;
+    background: #F2F2F2;
+    border-radius: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #09090C;
+    opacity: 0.6;
+}
+
+.isParticipate {
+    border: 1.5px solid #DADADA;
+    border-radius: 24px;
+    padding: 49px 57px 29px 22px;
+    background-image: url('../../img/stars.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.subTitle {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: #09090C;
+    width: 99%;
+}
+
+.register {
+    color: #6C6A6C;
+}
+
+.endTime {
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
+
+}
+
+.btn {
+    padding: 8px 16px;
+    background: #09090C;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #F5F5F5;
+    cursor: pointer;
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "World Competition of Chessboxing June 2023",
+      "startTime": "June 17, 19:00",
+      "description": "The best competition in sport ever. Feel how stronger you become. Come and train your brain and muscles. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum.",
+      "price": 15,
+      "people": 426,
+      "isParticipate": false
+    },
+    {
+      "id": 2,
+      "title": "World Competition of Chessboxing July 2023",
+      "startTime": "July 14, 18:00",
+      "description": "The best competition in sport ever. Feel how stronger you become. Come and train your brain and muscles. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum.",
+      "price": 14,
+      "people": 326,
+      "isParticipate": false
+    },
+    {
+      "id": 3,
+      "title": "World Competition of Chessboxing August 2023",
+      "startTime": "August 13, 16:00",
+      "description": "The best competition in sport ever. Feel how stronger you become. Come and train your brain and muscles. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum.",
+      "price": 16,
+      "people": 126,
+      "isParticipate": false
+    },
+    {
+      "id": 4,
+      "title": "World Competition of Chessboxing September 2023",
+      "startTime": "September 17, 14:00",
+      "description": "The best competition in sport ever. Feel how stronger you become. Come and train your brain and muscles. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum.",
+      "price": 25,
+      "people": 116,
+      "isParticipate": false
+    },
+    {
+      "id": 5,
+      "title": "World Competition of Chessboxing October 2023",
+      "startTime": "October 11, 20:00",
+      "description": "The best competition in sport ever. Feel how stronger you become. Come and train your brain and muscles. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum.",
+      "price": 11,
+      "people": 322,
+      "isParticipate": false
+    },
+    {
+      "id": 6,
+      "title": "World Competition of Chessboxing November 2023",
+      "startTime": "November 17, 19:00",
+      "description": "The best competition in sport ever. Feel how stronger you become. Come and train your brain and muscles. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum. Lorem ipsum delorian van fin uptinum.",
+      "price": 15,
+      "people": 426,
+      "isParticipate": false
+    }
+  ]
+}
